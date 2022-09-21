@@ -1,0 +1,24 @@
+a {
+    text-align: center;
+    color: red;
+  }
+  h1 {
+    text-align: center;
+    color: rgb(88, 49, 171);
+  }
+  div.menu {
+    
+        position: absolute;
+        top: 50px;
+        left: 50px;
+        width: 800px;
+        height: 75px;
+        border: 1px solid #73AD21;
+      
+  }
+  
+  body {
+    background-image: url("https://jupiterworldlogistics.com/wp-content/uploads/2020/06/logistics-transportation-coronavirus-impact.jpg");
+    background-size: 2000px 1000px;
+    background-repeat: no-repeat;
+  }

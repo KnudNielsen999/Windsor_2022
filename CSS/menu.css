@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(181, 104, 59);
+}
+body {
+    background-color: rgb(128, 183, 175);
+}
+#lager {
+    background-color: rgb(183, 240, 68);
+}
+.dropdown-menu {
+    background-color: rgb(208, 212, 98);
+    color: rgb(4, 76, 138);
+}
+ #dropdwlager {
+    background-color: rgb(208, 212, 98);
+    color: rgb(19, 12, 228);
+
+}
